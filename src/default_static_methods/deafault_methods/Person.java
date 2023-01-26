@@ -3,7 +3,7 @@ package default_static_methods.deafault_methods;
 import  java.util.Random;
 public interface Person {
 
-    String getName();
+     String getName();
 
     int getAge();
 
